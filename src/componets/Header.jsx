@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <header className="sticky-header">
-      <h1>Proyecto 3 - Portfolio - Sistemas y Tecnologías Web</h1>
+      <h1>Marlon Iván Hernández Catalán</h1>
     </header>
   );
 };

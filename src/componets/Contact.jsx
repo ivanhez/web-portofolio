@@ -5,9 +5,9 @@ const Contact = () => {
   return (
     <section id="contact" className="contact-section">
       <div className="contact-info">
-        <h2>CONTACT ME</h2>
+        <h2>Contacto</h2>
         <h3>
-          <u>INFORMACIÓN PERSONAL</u>
+          <u></u>
         </h3>
         <table>
           <tbody>

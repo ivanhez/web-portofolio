@@ -53,20 +53,21 @@ const Portfolio = () => {
   return (
     <div>
       <section id="portfolio">
-        <h2>Sistemas y Tecnologías Web Projects</h2>
+        {/* <h2>Sistemas y Tecnologías Web Projects</h2>
         <div>
           {projects.map((project, index) => (
             <ProjectCard key={index} {...project} />
           ))}
         </div>
       </section>
-      <section id="paortfolio">
-        <h2>Work Projects</h2>
+      <section id="paortfolio"> */}
+        <h2>Proyectos</h2>
         <div>
           {wprojects.map((project, index) => (
             <ProjectCard key={index} {...project} />
           ))}
         </div>
+        <p>Otros proyectos que han sido desarrollados son proprietaros de los lugares en donde he trabajado.</p>
       </section>
     </div>
   );

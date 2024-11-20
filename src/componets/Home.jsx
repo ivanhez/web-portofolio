@@ -105,7 +105,7 @@ const Home = () => {
         <h5>
           Analista de datos del Centro de Estudios en Salud de la Universidad
           del Valle de Guatemala. Desarrollando análisis y estadísticas de datos
-          del centro de salud. Desarrollo de sistemas de gestión de datos para
+          del centro de salud. Desarrollo de sistemas web fullstack para gestión de datos de
           distintos proyectos. Mantenimiento y mejora de página web
           institucional.
         </h5>
@@ -115,7 +115,7 @@ const Home = () => {
           febril y diarreico en servicios de salud de la red pública. Se trabajó
           en un sistema para el ingreso de resultados de las muestras
           recolectadas para mantener un control de calidad de los datos.
-          (Diciembre 2022 – Junio| 2024)
+          (Diciembre 2022 – Septiembre 2024)
         </p>
         <p>
           Proyecto GSeroprevalence: estudio para determinar la presencia de
