@@ -48,6 +48,11 @@ const Portfolio = () => {
       description: "Mantenimiento y administración de página institucional.",
       link: "https://www.ces.uvg.edu.gt/",
     },
+    {
+      title: "Gestión de Recursos Humanos",
+      description: "Práctica de gestión de empresas y colaboradores.",
+      link: "http://35.175.218.191:3000/",
+    },
   ];
 
   return (
@@ -67,7 +72,10 @@ const Portfolio = () => {
             <ProjectCard key={index} {...project} />
           ))}
         </div>
-        <p>Otros proyectos que han sido desarrollados son proprietaros de los lugares en donde he trabajado.</p>
+        <p>
+          Otros proyectos que han sido desarrollados son proprietaros de los
+          lugares en donde he trabajado.
+        </p>
       </section>
     </div>
   );
